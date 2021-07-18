@@ -6,8 +6,6 @@ Student: Harrison Miao
 
 Data Set: NYC Collision
 
-Deploy URL:
-
 # Description:
 
 Road accidents constitute a significant proportion of the number of serious injuries reported every year especially
